@@ -1,28 +1,27 @@
 [
     {
-        "id": 1,
-        "stream_id": "ABC",
+       "id": 1,
+        "stream_id": "ABC SD",
         "tvguide_id": "9233011874",
-        "name": "ABC",
-        "category": "Entertainment",
+        "name": "ABC SD",
+        "category": "ABC",
         "language": "en"
     },
     {
         "id": 2,
-        "stream_id": "ABCNY",
-        "tvguide_id": "9200000057",
-        "name": "ABC 7 New York",
-        "category": "Entertainment",
+        "stream_id": "ABC HD",
+        "tvguide_id": "9233011874",
+        "name": "ABC HD",
+        "category": "ABC",
         "language": "en"
     },
     {
         "id": 3,
-        "stream_id": "ACCN",
-        "tvguide_id": "9200017734",
-        "name": "ACC Network",
-        "category": "Sports",
+        "stream_id": "ABC NY",
+        "tvguide_id": "9200000057",
+        "name": "ABC 7 New York",
+        "category": "ABC",
         "language": "en"
-    },
     {
         "id": 4,
         "stream_id": "AE",
